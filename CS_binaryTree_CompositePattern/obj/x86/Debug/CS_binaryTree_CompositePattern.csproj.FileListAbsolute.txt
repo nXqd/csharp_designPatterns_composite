@@ -1,0 +1,5 @@
+D:\dev\CS_binaryTree_CompositePattern\CS_binaryTree_CompositePattern\bin\Debug\CS_binaryTree_CompositePattern.exe
+D:\dev\CS_binaryTree_CompositePattern\CS_binaryTree_CompositePattern\bin\Debug\CS_binaryTree_CompositePattern.pdb
+D:\dev\CS_binaryTree_CompositePattern\CS_binaryTree_CompositePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dev\CS_binaryTree_CompositePattern\CS_binaryTree_CompositePattern\obj\x86\Debug\CS_binaryTree_CompositePattern.exe
+D:\dev\CS_binaryTree_CompositePattern\CS_binaryTree_CompositePattern\obj\x86\Debug\CS_binaryTree_CompositePattern.pdb
